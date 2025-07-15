@@ -12,7 +12,7 @@ ___
 
 _1. Terminator_ 
 
-![Symbol of Terminators i.e. Start and End.](https://github.com/ashweeni-b/Coding-Fudamentals/blob/main/Flowcharts/Terminator.png)  
+![Symbol of Terminators i.e. Start and End.](https://github.com/ashweeni-b/Coding-Fudamentals/blob/main/assets/flowchart_components/Terminator.png)  
 
 (a) Used to denote start of a process\
 (b) Used to denote end of a process
