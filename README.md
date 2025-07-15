@@ -1,8 +1,8 @@
-## Coding-Fudamentals
+## Problem_Solving
 
 ___
 
-This repository consists notes about basic concepts of Coding.
+This repository consists notes about Flowcharts and Pseudocodes.
 
 ___
 
@@ -10,3 +10,4 @@ ___
 
 1. Flowcharts
 2. Pseudocodes
+3. Practice Problems
